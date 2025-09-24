@@ -1,0 +1,1 @@
+résztvevőket lehet felvinni úgy, hogy bejelentkezel dolgozóként
